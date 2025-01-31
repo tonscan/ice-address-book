@@ -1,6 +1,5 @@
 - address: Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU
   name: System
-  img: #place public link here
   
 - address: Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF
   name: The Elector
@@ -14,3 +13,4 @@
 - address: UQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJKZ
   name: Burn Address
   type: wallet
+  img: #place public link here
